@@ -25,3 +25,5 @@ Possibilidade de adicionar suas imagens favoritas a uma lista de favoritos para 
 
 `Visualização Expandida:`
 Função para expandir imagens e visualizá-las em um tamanho maior para uma experiência mais imersiva.
+
+Obrigado por conferir o SpaceApp! Aproveite sua exploração pelo cosmos! 🚀🪐🌌
