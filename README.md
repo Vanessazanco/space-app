@@ -1,8 +1,27 @@
-# React + Vite
+<h1> :milky_way: SpaceApp  </h1> 
+Bem-vindo ao projeto SpaceApp! Este projeto foi desenvolvido como parte do curso da Alura sobre React: estilize componentes com styled-components e manipule arquivos estáticos.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Descrição
+O SpaceApp é uma aplicação web que permite aos usuários explorar imagens impressionantes de estrelas, galáxias, luas e nebulosas.
+Com esta aplicação, você pode:
 
-Currently, two official plugins are available:
+-  Visualizar diversas fotos do espaço.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-  Adicionar fotos aos seus favoritos.
+
+-  Expandir as fotos para visualizá-las em maior detalhe.
+
+# Tecnologias Utilizadas:
+- ``React``
+- ``Vite``
+- ``Styled-Components``
+
+# :hammer: Funcionalidades do projeto
+`Galeria de Imagens Espaciais:`
+Exibição de uma coleção de imagens do espaço, incluindo estrelas, galáxias, luas e nebulosas.
+
+`Favoritar Imagens:`
+Possibilidade de adicionar suas imagens favoritas a uma lista de favoritos para acesso rápido.
+
+`Visualização Expandida:`
+Função para expandir imagens e visualizá-las em um tamanho maior para uma experiência mais imersiva.
